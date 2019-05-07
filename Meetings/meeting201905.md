@@ -9,7 +9,7 @@
 ## ATTENDEES
 Please add your name.
 
-* 
+* Karen Hwang
 
 ## AGENDA & NOTES
 * Welcome & Introductions
